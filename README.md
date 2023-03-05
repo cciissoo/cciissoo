@@ -47,3 +47,6 @@
 <img src="http://mazandi.herokuapp.com/api?handle=rhgustmd123&theme=dark"/>
 </div>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=5CD1E5&height=60&section=footer&text=&fontSize=90)
+<div align="center">
