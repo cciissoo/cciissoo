@@ -1,30 +1,49 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=5CD1E5&height=60&section=header&text=&fontSize=90)
+<div align="center">
+  
+### 👨‍💻 About 👨‍💻
+- - -
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcciissoo%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rhgustmd123)](https://solved.ac/rhgustmd123)
+
+
+<h4> Platinum 💚</h4>
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustmd123)](https://solved.ac/rhgustmd123)
-<div align=center><h1>📚 Technology Stacks 📚</h1></div>
+
+
+<div align=center><h4>📚 Programming Language 📚</h4></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>C</title><path d="M16.5921 9.1962s-.354-3.298-3.627-3.39c-3.2741-.09-4.9552 2.474-4.9552 6.14 0 3.6651 1.858 6.5972 5.0451 6.5972 3.184 0 3.5381-3.665 3.5381-3.665l6.1041.365s.36 3.31-2.196 5.836c-2.552 2.5241-5.6901 2.9371-7.8762 2.9201-2.19-.017-5.2261.034-8.1602-2.97-2.938-3.0101-3.436-5.9302-3.436-8.8002 0-2.8701.556-6.6702 4.047-9.5502C7.444.72 9.849 0 12.254 0c10.0422 0 10.7172 9.2602 10.7172 9.2602z"/></svg>%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Assembly-007AAC.svg?style=for-the-badge&logo=AssemblyScript&logoColor=white">
+  <img src="https://img.shields.io/badge/c-E34F26.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-F7DF1EC.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/java-#F7DF1E?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
   <br>
-
-  
-  
 </div>
-
-
-<!--
-**cciissoo/cciissoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+- - -
+<h4> 💻 Certificate 💻  </h4>
+  
+  Certificate | Organization | Date
+  ---- | ---- | ----
+  삼성SDS S/W 검정 B형(Professional) | 삼성SDS | 2023.03
+  삼성전자 S/W 역량테스트 B형(Professional) | 삼성전자 | 2023.02
+  컴퓨터활용능력 1급 | 대한상공회의소 | 2022.09
+  
+<h4> 🧩 Activity 🧩 </h4>
+  
+  Organization | Activity | Date
+  ---- | ---- | ----
+  삼성SDS 동계 대학생 S/W 알고리즘 특강 | 수료 및 Pro 취득 | 2023
+  삼성전자 DX 부문 동계 대학생 S/W 특강 | 수강 및 B형 취득 | 2023
+- - -
+  
+<h4> 📕 Solved.ac 📕 </h4>
+<img src="http://mazandi.herokuapp.com/api?handle=rhgustmd123&theme=dark"/>
+</div>
+</div>
