@@ -37,10 +37,10 @@
   
 <h4> 🧩 Activity 🧩 </h4>
   
-  Organization | Activity | Date
-  ---- | ---- | ----
-  삼성SDS 동계 대학생 S/W 알고리즘 특강 | 수료 및 Pro 취득 | 2023
-  삼성전자 DX 부문 동계 대학생 S/W 특강 | 수강 및 B형 취득 | 2023
+  Course | Organization | Activity | Date
+  ---- | ---- | ---- | ----
+  삼성SDS 동계 대학생 S/W 알고리즘 특강 | 삼성SDS | 수료 및 Pro 취득 | 2023
+  삼성전자 DX 부문 동계 대학생 S/W 특강 | 삼성전자 | 수강 및 B형 취득 | 2023
 - - -
   
 <h4> 📕 Solved.ac 📕 </h4>
