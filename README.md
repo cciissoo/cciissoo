@@ -36,6 +36,12 @@
   삼성SDS S/W 검정 B형(Professional) | 삼성SDS | 2023.03
   삼성전자 S/W 역량테스트 B형(Professional) | 삼성전자 | 2023.02
   컴퓨터활용능력 1급 | 대한상공회의소 | 2022.09
+
+  <h4> 	🌞 English 	🌞  </h4>
+  
+  Certificate | Organization | Date
+  ---- | ---- | ----
+  TOEIC Speaking 150(IH) | 한국TOEIC위원회 | 2023.04
   
 <h4> 🧩 Activity 🧩 </h4>
   
