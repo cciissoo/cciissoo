@@ -42,7 +42,7 @@
   
   Certificate | Organization | Date
   ---- | ---- | ----
-  TOEIC Speaking 150(IH) | 한국TOEIC위원회 | 2023.04
+  TOEIC Speaking 150(IH) | ETS | 2023.04
   
 <h4> 🧩 Activity 🧩 </h4>
   
