@@ -10,11 +10,11 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rhgustmd123)](https://solved.ac/rhgustmd123)
 
 
-<h4> Platinum 💚</h4>
+<h4> Platinum 💚 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp     📕 Solved.ac 📕</h4>
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustmd123)](https://solved.ac/rhgustmd123)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhgustmd123)](https://solved.ac/rhgustmd123)  <img src="http://mazandi.herokuapp.com/api?handle=rhgustmd123&theme=dark"/>
 
 
 <div align=center><h4>📚 Programming Language 📚</h4></div>
@@ -52,8 +52,8 @@
   삼성전자 DX 부문 동계 대학생 S/W 특강 | 삼성전자 | 수강 및 B형 취득 | 2023
 - - -
   
-<h4> 📕 Solved.ac 📕 </h4>
-<img src="http://mazandi.herokuapp.com/api?handle=rhgustmd123&theme=dark"/>
+<h4>  </h4>
+
 </div>
 </div>
 
