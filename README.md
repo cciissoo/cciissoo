@@ -33,6 +33,7 @@
   
   Certificate | Organization | Date
   ---- | ---- | ----
+  AWS Certified Developer - Associate | AWS | 2023.05
   정보처리기사 | 한국산업인력공단 | 2023.04
   삼성SDS S/W 검정 B형(Professional) | 삼성SDS | 2023.03
   삼성전자 S/W 역량테스트 B형(Professional) | 삼성전자 | 2023.02
