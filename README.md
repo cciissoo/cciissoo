@@ -33,8 +33,8 @@
   
   Certificate | Organization | Date
   ---- | ---- | ----
+  정보처리기사 | 한국산업인력공단 | 2023.06
   AWS Certified Developer  | AWS | 2023.05
-  정보처리기사 | 한국산업인력공단 | 2023.04
   삼성SDS S/W 검정 B형(Professional) | 삼성SDS | 2023.03
   삼성전자 S/W 역량테스트 B형(Professional) | 삼성전자 | 2023.02
   컴퓨터활용능력 1급 | 대한상공회의소 | 2022.09
