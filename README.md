@@ -33,6 +33,7 @@
   
   Certificate | Organization | Date
   ---- | ---- | ----
+  SQLD | 한국데이터산업진흥원 | 2023.06
   정보처리기사 | 한국산업인력공단 | 2023.06
   AWS Certified Developer  | AWS | 2023.05
   삼성SDS S/W 검정 B형(Professional) | 삼성SDS | 2023.03
