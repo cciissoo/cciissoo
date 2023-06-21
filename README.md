@@ -9,9 +9,11 @@
 
   
 - - -
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcciissoo%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rhgustmd123)](https://solved.ac/rhgustmd123)
+<a href="[https://velog.io/@zaman17](https://blog.naver.com/rhgustmd5)"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustmd5"/></a>
 
 
 <h4> Platinum 💚 </h4>
@@ -38,8 +40,8 @@
   
   Certificate | Organization | Date
   ---- | ---- | ----
-  SQLD | 한국데이터산업진흥원 | 2023.06
-  정보처리기사 | 한국산업인력공단 | 2023.06
+  SQLD | KDATA | 2023.06
+  정보처리기사 | HRDK | 2023.06
   AWS Certified Developer  | AWS | 2023.05
   삼성SDS S/W 검정 B형(Professional) | 삼성SDS | 2023.03
   삼성전자 S/W 역량테스트 B형(Professional) | 삼성전자 | 2023.02
