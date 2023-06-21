@@ -13,7 +13,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcciissoo%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rhgustmd123)](https://solved.ac/rhgustmd123)
-<a href="[https://velog.io/@zaman17](https://blog.naver.com/rhgustmd5)"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustmd5"/></a>
+<a href="[https://blog.naver.com/rhgustmd5](https://blog.naver.com/rhgustmd5)"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/rhgustmd5"/></a>
 
 
 <h4> Platinum 💚 </h4>
