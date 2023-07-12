@@ -43,7 +43,7 @@
   
   Certificate | Organization | Date
   ---- | ---- | ----
-  SQLD | KDATA | 2023.06
+  SQLD | KDATA | 2023.07
   정보처리기사 | HRDK | 2023.06
   AWS Certified Developer  | AWS | 2023.05
   삼성SDS S/W 검정 B형(Professional) | 삼성SDS | 2023.03
