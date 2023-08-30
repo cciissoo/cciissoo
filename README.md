@@ -43,7 +43,7 @@
   
   Certificate | Organization | Date
   ---- | ---- | ----
-  HSAT (Hyundai Software Aptitude Test) | 현대엔지비 | 2023.08
+  HSAT(Hyundai Software Aptitude Test)-Level3 | 현대엔지비 | 2023.08
   SQLD | KDATA | 2023.07
   정보처리기사 | HRDK | 2023.06
   AWS Certified Developer  | AWS | 2023.05
