@@ -43,12 +43,12 @@
   
   Certificate | Organization | Date
   ---- | ---- | ----
+  삼성전자 S/W 역량테스트 B형(Professional) | 삼성전자 | 2023.02
+  삼성SDS S/W 검정 B형(Professional) | 삼성SDS | 2023.03
   HSAT (Hyundai Software Aptitude Test) - Level 3 | 현대엔지비 | 2023.08
-  SQLD | KDATA | 2023.07
   정보처리기사 | HRDK | 2023.06
   AWS Certified Developer - Associate  | AWS | 2023.05
-  삼성SDS S/W 검정 B형(Professional) | 삼성SDS | 2023.03
-  삼성전자 S/W 역량테스트 B형(Professional) | 삼성전자 | 2023.02
+  SQLD | KDATA | 2023.07
   컴퓨터활용능력 1급 | 대한상공회의소 | 2022.09
 
   <h4> 	🌞 English 	🌞  </h4>
